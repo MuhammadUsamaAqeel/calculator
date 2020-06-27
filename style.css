@@ -1,0 +1,39 @@
+.main{
+    border: 2px solid darkgreen;
+    background-color: darkgreen;
+    width: 300px;
+    margin: 0px auto;
+    box-shadow: 2px 2px 5px grey;
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px 3px grey;
+    text-align: center;
+}
+#calculate{
+    height: 30px;
+    border: 1px solid green;
+    margin-bottom: 5px;
+    margin-left: 1px;
+    width:97%;
+}
+.clearbtn{
+    width:99%;
+    margin: 5px 1px;
+    box-shadow: 2px 2px 3px grey;
+    background-color: white;
+}
+.btn{
+    width:70px;
+    align-content: center;
+    margin: 5px 1px;
+    box-shadow: 2px 2px 3px grey;
+    background-color: white;
+}
+.btnEqual{
+    width:146px;
+    align-content: center;
+    margin: 5px 1px;
+    box-shadow: 2px 2px 3px grey;
+    background-color: white;
+}
